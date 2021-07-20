@@ -3,7 +3,7 @@ I am Kar Kei. A Year 2 Undergraduate Student currently studying Computer Science
 
 Reach Me At: <br>
 <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="width:500px;height:600px;"/> [LinkedIn](https://www.linkedin.com/in/karkeiong/) <br>
-<img src="https://img.icons8.com/clouds/100/000000/email--v1.png" style="width:500px;height:600px;"/> candyokk@outlook.com
+<img src="https://img.icons8.com/material-rounded/48/000000/email.png"/> candyokk@outlook.com
 
 
 <a href="https://github.com/Keiii25">
