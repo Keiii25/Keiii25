@@ -1,7 +1,7 @@
 ### Hey there 👋
 I am Kar Kei. A Year 2 Undergraduate Student currently studying Computer Science majoring in Data Science at Monash University Malaysia. I am most experienced in Software Development and Data Science. 
 
-Reach Me At:
+Reach Me At: <br>
 <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="width:500px;height:600px;"/> [LinkedIn](https://www.linkedin.com/in/karkeiong/) <br>
 <img src="https://img.icons8.com/clouds/100/000000/email--v1.png" style="width:500px;height:600px;"/> candyokk@outlook.com
 
