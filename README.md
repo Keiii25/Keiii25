@@ -6,9 +6,9 @@ Reach Me At: <br>
 <img src="https://img.icons8.com/nolan/48/email.png"/>ongkarkei@gmail.com
 
 
-<a href="https://github.com/Keiii25">
+<!-- <a href="https://github.com/Keiii25">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keiii25&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
 <br>
 <a href="https://github.com/Keiii25">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Keiii25&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Kar Kei's GitHub Stats" />
